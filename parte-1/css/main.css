@@ -1,0 +1,22 @@
+.abuelo{
+	background-color: red;
+	position: static;
+	width: 400px;
+	height: 400px;
+}
+
+.papa{
+	background-color: purple;
+	position: relative;
+	top: 100px;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+}
+
+.hijo{
+	background-color: yellow;
+	position: absolute;
+	width: 100px;
+	height: 100px;
+}
